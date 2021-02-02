@@ -21,7 +21,7 @@
             "id": 1,
             "name": "video 1",
             "channelId": 1,
-            "url":"https://www.youtube.com/embed/fn3KWM1kuAw?start=1",
+            "url":"fn3KWM1kuAw",
             "comments": [
                 {
                     "id": 1,
@@ -45,7 +45,7 @@
             "id": 2,
             "name": "video 2",
             "channelId": 1,
-            "url":"https://www.youtube.com/embed/fn3KWM1kuAw?start=1",
+            "url":"fn3KWM1kuAw",
             "comments": [
                 {
                     "id": 1,
@@ -65,7 +65,7 @@
             "id": 3,
             "name": "video 3",
             "channelId": 1,
-            "url":"https://www.youtube.com/embed/fn3KWM1kuAw?start=1",
+            "url":"fn3KWM1kuAw",
             "comments": [
                 {
                     "id": 1,
@@ -85,7 +85,7 @@
             "id": 4,
             "name": "video 1",
             "channelId": 2,
-            "url":"https://www.youtube.com/embed/fn3KWM1kuAw?start=1",
+            "url":"fn3KWM1kuAw",
             "comments": [
                 {
                     "id": 1,
